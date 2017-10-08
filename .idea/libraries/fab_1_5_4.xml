@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="fab-1.5.4">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.android/build-cache/f9f8e64b2c9d6b4f12be86ac6d457332ff820f32/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/f9f8e64b2c9d6b4f12be86ac6d457332ff820f32/output/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.clans/fab/1.5.4/62bc7e1aa946c948f6580a5cf462dd6153b808f/fab-1.5.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

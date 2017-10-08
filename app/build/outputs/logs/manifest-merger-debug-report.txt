@@ -1,0 +1,548 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/shadab/AndroidStudioProjects/digipune/app/src/main/AndroidManifest.xml:2:1-241:12
+	package
+		ADDED from /home/shadab/AndroidStudioProjects/digipune/app/src/main/AndroidManifest.xml:3:5-38
+		INJECTED from /home/shadab/AndroidStudioProjects/digipune/app/src/main/AndroidManifest.xml
+		INJECTED from /home/shadab/AndroidStudioProjects/digipune/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/shadab/AndroidStudioProjects/digipune/app/src/main/AndroidManifest.xml
+		INJECTED from /home/shadab/AndroidStudioProjects/digipune/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/shadab/AndroidStudioProjects/digipune/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /home/shadab/AndroidStudioProjects/digipune/app/src/main/AndroidManifest.xml
+		INJECTED from /home/shadab/AndroidStudioProjects/digipune/app/src/main/AndroidManifest.xml
+permission#in.skylinelabs.digiPune.permission.MAPS_RECEIVE
+ADDED from /home/shadab/AndroidStudioProjects/digipune/app/src/main/AndroidManifest.xml:5:5-7:47
+	android:protectionLevel
+		ADDED from /home/shadab/AndroidStudioProjects/digipune/app/src/main/AndroidManifest.xml:7:9-44
+	android:name
+		ADDED from /home/shadab/AndroidStudioProjects/digipune/app/src/main/AndroidManifest.xml:6:9-71
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /home/shadab/AndroidStudioProjects/digipune/app/src/main/AndroidManifest.xml:9:5-79
+MERGED from [com.google.android.gms:play-services-ads:7.5.0] /home/shadab/.android/build-cache/688ee0146c6c31a89d9560a5b917c81458d68e23/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-analytics:7.5.0] /home/shadab/.android/build-cache/4c269d0f5ed342ff5d807abc2751a61d74fe1e92/output/AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-nearby:7.5.0] /home/shadab/.android/build-cache/d30154768c5a1772d2c63beb4efc5e95b84fb518/output/AndroidManifest.xml:19:5-79
+MERGED from [com.google.android.gms:play-services-maps:7.5.0] /home/shadab/.android/build-cache/9de23655ea0755b28b949e6c0ca06c03c8691a3d/output/AndroidManifest.xml:20:5-78
+	android:name
+		ADDED from /home/shadab/AndroidStudioProjects/digipune/app/src/main/AndroidManifest.xml:9:22-76
+uses-permission#android.permission.INTERNET
+ADDED from /home/shadab/AndroidStudioProjects/digipune/app/src/main/AndroidManifest.xml:10:5-67
+MERGED from [com.google.android.gms:play-services-ads:7.5.0] /home/shadab/.android/build-cache/688ee0146c6c31a89d9560a5b917c81458d68e23/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-analytics:7.5.0] /home/shadab/.android/build-cache/4c269d0f5ed342ff5d807abc2751a61d74fe1e92/output/AndroidManifest.xml:21:5-67
+MERGED from [com.google.android.gms:play-services-appinvite:7.5.0] /home/shadab/.android/build-cache/983e64622e67d9cd93eb87200e726a1743bbc1d8/output/AndroidManifest.xml:19:5-67
+MERGED from [com.google.android.gms:play-services-wallet:7.5.0] /home/shadab/.android/build-cache/e3fd3dd06b1d2a5a0b7115f559a961f2f4aba5dc/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-maps:7.5.0] /home/shadab/.android/build-cache/9de23655ea0755b28b949e6c0ca06c03c8691a3d/output/AndroidManifest.xml:21:5-66
+	android:name
+		ADDED from /home/shadab/AndroidStudioProjects/digipune/app/src/main/AndroidManifest.xml:10:22-64
+uses-permission#com.google.android.providers.gsf.permission.READ_GSERVICES
+ADDED from /home/shadab/AndroidStudioProjects/digipune/app/src/main/AndroidManifest.xml:11:5-98
+	android:name
+		ADDED from /home/shadab/AndroidStudioProjects/digipune/app/src/main/AndroidManifest.xml:11:22-95
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/shadab/AndroidStudioProjects/digipune/app/src/main/AndroidManifest.xml:12:5-81
+MERGED from [com.google.android.gms:play-services-maps:7.5.0] /home/shadab/.android/build-cache/9de23655ea0755b28b949e6c0ca06c03c8691a3d/output/AndroidManifest.xml:22:5-80
+	android:name
+		ADDED from /home/shadab/AndroidStudioProjects/digipune/app/src/main/AndroidManifest.xml:12:22-78
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /home/shadab/AndroidStudioProjects/digipune/app/src/main/AndroidManifest.xml:13:5-75
+	android:name
+		ADDED from /home/shadab/AndroidStudioProjects/digipune/app/src/main/AndroidManifest.xml:13:22-72
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /home/shadab/AndroidStudioProjects/digipune/app/src/main/AndroidManifest.xml:14:5-81
+MERGED from [com.google.android.gms:play-services-maps:7.5.0] /home/shadab/.android/build-cache/9de23655ea0755b28b949e6c0ca06c03c8691a3d/output/AndroidManifest.xml:23:5-80
+	android:name
+		ADDED from /home/shadab/AndroidStudioProjects/digipune/app/src/main/AndroidManifest.xml:14:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /home/shadab/AndroidStudioProjects/digipune/app/src/main/AndroidManifest.xml:15:5-79
+	android:name
+		ADDED from /home/shadab/AndroidStudioProjects/digipune/app/src/main/AndroidManifest.xml:15:22-76
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from /home/shadab/AndroidStudioProjects/digipune/app/src/main/AndroidManifest.xml:16:5-81
+	android:name
+		ADDED from /home/shadab/AndroidStudioProjects/digipune/app/src/main/AndroidManifest.xml:16:22-78
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from /home/shadab/AndroidStudioProjects/digipune/app/src/main/AndroidManifest.xml:17:5-71
+MERGED from [com.google.android.gms:play-services-wallet:7.5.0] /home/shadab/.android/build-cache/e3fd3dd06b1d2a5a0b7115f559a961f2f4aba5dc/output/AndroidManifest.xml:21:5-70
+	android:name
+		ADDED from /home/shadab/AndroidStudioProjects/digipune/app/src/main/AndroidManifest.xml:17:22-68
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /home/shadab/AndroidStudioProjects/digipune/app/src/main/AndroidManifest.xml:18:5-76
+	android:name
+		ADDED from /home/shadab/AndroidStudioProjects/digipune/app/src/main/AndroidManifest.xml:18:22-73
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from /home/shadab/AndroidStudioProjects/digipune/app/src/main/AndroidManifest.xml:19:5-76
+	android:name
+		ADDED from /home/shadab/AndroidStudioProjects/digipune/app/src/main/AndroidManifest.xml:19:22-73
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /home/shadab/AndroidStudioProjects/digipune/app/src/main/AndroidManifest.xml:20:5-68
+	android:name
+		ADDED from /home/shadab/AndroidStudioProjects/digipune/app/src/main/AndroidManifest.xml:20:22-65
+uses-permission#android.permission.READ_CONTACTS
+ADDED from /home/shadab/AndroidStudioProjects/digipune/app/src/main/AndroidManifest.xml:21:5-72
+	android:name
+		ADDED from /home/shadab/AndroidStudioProjects/digipune/app/src/main/AndroidManifest.xml:21:22-69
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from /home/shadab/AndroidStudioProjects/digipune/app/src/main/AndroidManifest.xml:22:5-82
+	android:name
+		ADDED from /home/shadab/AndroidStudioProjects/digipune/app/src/main/AndroidManifest.xml:22:22-79
+uses-permission#android.permission.CALL_PHONE
+ADDED from /home/shadab/AndroidStudioProjects/digipune/app/src/main/AndroidManifest.xml:23:5-69
+	android:name
+		ADDED from /home/shadab/AndroidStudioProjects/digipune/app/src/main/AndroidManifest.xml:23:22-66
+uses-permission#android.permission.CHANGE_NETWORK_STATE
+ADDED from /home/shadab/AndroidStudioProjects/digipune/app/src/main/AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from /home/shadab/AndroidStudioProjects/digipune/app/src/main/AndroidManifest.xml:24:22-76
+uses-permission#android.permission.SEND_SMS
+ADDED from /home/shadab/AndroidStudioProjects/digipune/app/src/main/AndroidManifest.xml:25:5-67
+	android:name
+		ADDED from /home/shadab/AndroidStudioProjects/digipune/app/src/main/AndroidManifest.xml:25:22-64
+permission#in.skylinelabs.digiPune.permission.C2D_MESSAGE
+ADDED from /home/shadab/AndroidStudioProjects/digipune/app/src/main/AndroidManifest.xml:27:5-29:47
+	android:protectionLevel
+		ADDED from /home/shadab/AndroidStudioProjects/digipune/app/src/main/AndroidManifest.xml:29:9-44
+	android:name
+		ADDED from /home/shadab/AndroidStudioProjects/digipune/app/src/main/AndroidManifest.xml:28:9-70
+uses-library#com.google.android.maps
+ADDED from /home/shadab/AndroidStudioProjects/digipune/app/src/main/AndroidManifest.xml:32:5-60
+	android:name
+		ADDED from /home/shadab/AndroidStudioProjects/digipune/app/src/main/AndroidManifest.xml:32:19-57
+application
+ADDED from /home/shadab/AndroidStudioProjects/digipune/app/src/main/AndroidManifest.xml:34:5-239:19
+MERGED from [com.android.support:recyclerview-v7:21.0.3] /home/shadab/.android/build-cache/ce107c503e3257c81a867840deb0442737f32aa7/output/AndroidManifest.xml:17:5-19:19
+MERGED from [com.google.android.gms:play-services:7.5.0] /home/shadab/.android/build-cache/4e051818bc6bccf4930c016ac75920af8319ec2a/output/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-ads:7.5.0] /home/shadab/.android/build-cache/688ee0146c6c31a89d9560a5b917c81458d68e23/output/AndroidManifest.xml:24:5-32:19
+MERGED from [com.google.android.gms:play-services-analytics:7.5.0] /home/shadab/.android/build-cache/4c269d0f5ed342ff5d807abc2751a61d74fe1e92/output/AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.gms:play-services-appindexing:7.5.0] /home/shadab/.android/build-cache/0182dd0b95bc8cc5d5573c58d9f3d507362041d4/output/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-appinvite:7.5.0] /home/shadab/.android/build-cache/983e64622e67d9cd93eb87200e726a1743bbc1d8/output/AndroidManifest.xml:20:5-20
+MERGED from [com.google.android.gms:play-services-appstate:7.5.0] /home/shadab/.android/build-cache/efd0f952c9a4f917eec70439122013767de5f525/output/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-cast:7.5.0] /home/shadab/.android/build-cache/394c2a5771df18cb32da0358b0bfc817360a5b13/output/AndroidManifest.xml:19:5-20
+MERGED from [com.android.support:mediarouter-v7:22.0.0] /home/shadab/.android/build-cache/f9c5a0f34b7c49af8203bab5f54eab8b712fe111/output/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-fitness:7.5.0] /home/shadab/.android/build-cache/9cda51b1ac9bb17c20f7a74204201989c36ac941/output/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-games:7.5.0] /home/shadab/.android/build-cache/53fb87c5b2e8a979d9a6433f33e6329212fffa27/output/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-drive:7.5.0] /home/shadab/.android/build-cache/3610d165c664ff32e1612c613148293a03dfb23f/output/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-gcm:7.5.0] /home/shadab/.android/build-cache/5ab1751481e1fb0d2043071b8251f82bc641bf56/output/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-location:7.5.0] /home/shadab/.android/build-cache/877a7871d77d47c9b031173e11d5fafc88094c94/output/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-nearby:7.5.0] /home/shadab/.android/build-cache/d30154768c5a1772d2c63beb4efc5e95b84fb518/output/AndroidManifest.xml:20:5-20
+MERGED from [com.google.android.gms:play-services-panorama:7.5.0] /home/shadab/.android/build-cache/f708a19a0a7098fd96cb4073e38860569fa638f2/output/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-plus:7.5.0] /home/shadab/.android/build-cache/687155360b3d211563a6ab408e218dfa646ba940/output/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-safetynet:7.5.0] /home/shadab/.android/build-cache/5ab2b2089f5694bcfc54f962490a36abd76017bf/output/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-wallet:7.5.0] /home/shadab/.android/build-cache/e3fd3dd06b1d2a5a0b7115f559a961f2f4aba5dc/output/AndroidManifest.xml:24:5-35:19
+MERGED from [com.google.android.gms:play-services-identity:7.5.0] /home/shadab/.android/build-cache/2316e0321b8d986f26405cb01e8c69893b72fa37/output/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-maps:7.5.0] /home/shadab/.android/build-cache/9de23655ea0755b28b949e6c0ca06c03c8691a3d/output/AndroidManifest.xml:29:5-20
+MERGED from [com.google.android.gms:play-services-wearable:7.5.0] /home/shadab/.android/build-cache/c1faf11bed5dd60f5c2afad8b0c7dcc6ae53755b/output/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-base:7.5.0] /home/shadab/.android/build-cache/d25d19e4a6b530a0d6db921ad935c440fac742f8/output/AndroidManifest.xml:20:5-24:19
+MERGED from [com.github.clans:fab:1.5.4] /home/shadab/.android/build-cache/f9f8e64b2c9d6b4f12be86ac6d457332ff820f32/output/AndroidManifest.xml:12:5-20
+MERGED from [com.android.support:cardview-v7:21.0.3] /home/shadab/.android/build-cache/958adb6023b32a088da364c4f7a7450853f3ca1f/output/AndroidManifest.xml:16:5-19
+MERGED from [de.hdodenhof:circleimageview:1.3.0] /home/shadab/.android/build-cache/dbefd19e35d55cef97bbf906079f9b32fd8655fa/output/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:design:22.2.0] /home/shadab/.android/build-cache/af8951e29ec79742082ab08123017c0b350be730/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:22.2.0] /home/shadab/.android/build-cache/9bcae28e96197ad94cce6ab181545ef1f9676476/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:22.2.0] /home/shadab/.android/build-cache/558ca9a9dfdde3c68247e191179c6038304f5716/output/AndroidManifest.xml:22:5-20
+MERGED from [com.skyfishjy.ripplebackground:library:1.0.1] /home/shadab/.android/build-cache/021ab68d12b359bd8833ceba2557eb8351497981/output/AndroidManifest.xml:11:5-20
+MERGED from [com.gordonwong:material-sheet-fab:1.0.4] /home/shadab/.android/build-cache/40d362a4ab5ec3cda052bff4eecde390acec6fd6/output/AndroidManifest.xml:10:5-20
+MERGED from [com.github.asyl.animation:arcanimator:1.0.0] /home/shadab/.android/build-cache/e94dac4e031484712b62932ae2528e625f52bf63/output/AndroidManifest.xml:11:5-12:19
+	android:screenOrientation
+		ADDED from /home/shadab/AndroidStudioProjects/digipune/app/src/main/AndroidManifest.xml:38:9-45
+	android:label
+		ADDED from /home/shadab/AndroidStudioProjects/digipune/app/src/main/AndroidManifest.xml:37:9-41
+	android:allowBackup
+		ADDED from /home/shadab/AndroidStudioProjects/digipune/app/src/main/AndroidManifest.xml:35:9-35
+	android:icon
+		ADDED from /home/shadab/AndroidStudioProjects/digipune/app/src/main/AndroidManifest.xml:36:9-45
+	android:theme
+		ADDED from /home/shadab/AndroidStudioProjects/digipune/app/src/main/AndroidManifest.xml:39:9-47
+activity#in.skylinelabs.digiPune.activity.SkylinelabsFlashScreen
+ADDED from /home/shadab/AndroidStudioProjects/digipune/app/src/main/AndroidManifest.xml:40:9-49:20
+	android:screenOrientation
+		ADDED from /home/shadab/AndroidStudioProjects/digipune/app/src/main/AndroidManifest.xml:43:13-49
+	android:label
+		ADDED from /home/shadab/AndroidStudioProjects/digipune/app/src/main/AndroidManifest.xml:42:13-45
+	android:name
+		ADDED from /home/shadab/AndroidStudioProjects/digipune/app/src/main/AndroidManifest.xml:41:13-83
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/shadab/AndroidStudioProjects/digipune/app/src/main/AndroidManifest.xml:44:13-48:29
+action#android.intent.action.MAIN
+ADDED from /home/shadab/AndroidStudioProjects/digipune/app/src/main/AndroidManifest.xml:45:17-69
+	android:name
+		ADDED from /home/shadab/AndroidStudioProjects/digipune/app/src/main/AndroidManifest.xml:45:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/shadab/AndroidStudioProjects/digipune/app/src/main/AndroidManifest.xml:47:17-77
+	android:name
+		ADDED from /home/shadab/AndroidStudioProjects/digipune/app/src/main/AndroidManifest.xml:47:27-74
+activity#in.skylinelabs.digiPune.activity.Sign_up
+ADDED from /home/shadab/AndroidStudioProjects/digipune/app/src/main/AndroidManifest.xml:50:9-55:20
+	android:screenOrientation
+		ADDED from /home/shadab/AndroidStudioProjects/digipune/app/src/main/AndroidManifest.xml:53:13-49
+	android:label
+		ADDED from /home/shadab/AndroidStudioProjects/digipune/app/src/main/AndroidManifest.xml:52:13-59
+	android:windowSoftInputMode
+		ADDED from /home/shadab/AndroidStudioProjects/digipune/app/src/main/AndroidManifest.xml:54:13-56
+	android:name
+		ADDED from /home/shadab/AndroidStudioProjects/digipune/app/src/main/AndroidManifest.xml:51:13-68
+activity#in.skylinelabs.digiPune.activity.FriendLocation
+ADDED from /home/shadab/AndroidStudioProjects/digipune/app/src/main/AndroidManifest.xml:56:9-60:20
+	android:screenOrientation
+		ADDED from /home/shadab/AndroidStudioProjects/digipune/app/src/main/AndroidManifest.xml:59:13-49
+	android:label
+		ADDED from /home/shadab/AndroidStudioProjects/digipune/app/src/main/AndroidManifest.xml:58:13-45
+	android:name
+		ADDED from /home/shadab/AndroidStudioProjects/digipune/app/src/main/AndroidManifest.xml:57:13-75
+activity#in.skylinelabs.digiPune.activity.SOS_Contacts
+ADDED from /home/shadab/AndroidStudioProjects/digipune/app/src/main/AndroidManifest.xml:61:9-65:20
+	android:screenOrientation
+		ADDED from /home/shadab/AndroidStudioProjects/digipune/app/src/main/AndroidManifest.xml:64:13-49
+	android:label
+		ADDED from /home/shadab/AndroidStudioProjects/digipune/app/src/main/AndroidManifest.xml:63:13-45
+	android:name
+		ADDED from /home/shadab/AndroidStudioProjects/digipune/app/src/main/AndroidManifest.xml:62:13-73
+activity#in.skylinelabs.digiPune.activity.Favourites
+ADDED from /home/shadab/AndroidStudioProjects/digipune/app/src/main/AndroidManifest.xml:66:9-70:20
+	android:screenOrientation
+		ADDED from /home/shadab/AndroidStudioProjects/digipune/app/src/main/AndroidManifest.xml:69:13-49
+	android:label
+		ADDED from /home/shadab/AndroidStudioProjects/digipune/app/src/main/AndroidManifest.xml:68:13-45
+	android:name
+		ADDED from /home/shadab/AndroidStudioProjects/digipune/app/src/main/AndroidManifest.xml:67:13-71
+activity#in.skylinelabs.digiPune.activity.AboutDevelopers
+ADDED from /home/shadab/AndroidStudioProjects/digipune/app/src/main/AndroidManifest.xml:71:9-75:20
+	android:screenOrientation
+		ADDED from /home/shadab/AndroidStudioProjects/digipune/app/src/main/AndroidManifest.xml:74:13-49
+	android:label
+		ADDED from /home/shadab/AndroidStudioProjects/digipune/app/src/main/AndroidManifest.xml:73:13-45
+	android:name
+		ADDED from /home/shadab/AndroidStudioProjects/digipune/app/src/main/AndroidManifest.xml:72:13-76
+service#in.skylinelabs.digiPune.activity.digiPune
+ADDED from /home/shadab/AndroidStudioProjects/digipune/app/src/main/AndroidManifest.xml:77:9-81:19
+	android:enabled
+		ADDED from /home/shadab/AndroidStudioProjects/digipune/app/src/main/AndroidManifest.xml:79:13-35
+	android:screenOrientation
+		ADDED from /home/shadab/AndroidStudioProjects/digipune/app/src/main/AndroidManifest.xml:80:13-49
+	android:name
+		ADDED from /home/shadab/AndroidStudioProjects/digipune/app/src/main/AndroidManifest.xml:78:13-46
+activity#in.skylinelabs.digiPune.activity.Pre_launch_activity
+ADDED from /home/shadab/AndroidStudioProjects/digipune/app/src/main/AndroidManifest.xml:83:9-87:20
+	android:screenOrientation
+		ADDED from /home/shadab/AndroidStudioProjects/digipune/app/src/main/AndroidManifest.xml:86:13-49
+	android:label
+		ADDED from /home/shadab/AndroidStudioProjects/digipune/app/src/main/AndroidManifest.xml:85:13-45
+	android:name
+		ADDED from /home/shadab/AndroidStudioProjects/digipune/app/src/main/AndroidManifest.xml:84:13-80
+activity#in.skylinelabs.digiPune.activity.MyLocation
+ADDED from /home/shadab/AndroidStudioProjects/digipune/app/src/main/AndroidManifest.xml:88:9-92:20
+	android:screenOrientation
+		ADDED from /home/shadab/AndroidStudioProjects/digipune/app/src/main/AndroidManifest.xml:91:13-49
+	android:label
+		ADDED from /home/shadab/AndroidStudioProjects/digipune/app/src/main/AndroidManifest.xml:90:13-45
+	android:name
+		ADDED from /home/shadab/AndroidStudioProjects/digipune/app/src/main/AndroidManifest.xml:89:13-71
+activity#in.skylinelabs.digiPune.activity.History
+ADDED from /home/shadab/AndroidStudioProjects/digipune/app/src/main/AndroidManifest.xml:93:9-97:20
+	android:screenOrientation
+		ADDED from /home/shadab/AndroidStudioProjects/digipune/app/src/main/AndroidManifest.xml:96:13-49
+	android:label
+		ADDED from /home/shadab/AndroidStudioProjects/digipune/app/src/main/AndroidManifest.xml:95:13-59
+	android:name
+		ADDED from /home/shadab/AndroidStudioProjects/digipune/app/src/main/AndroidManifest.xml:94:13-68
+activity#in.skylinelabs.digiPune.activity.Setting
+ADDED from /home/shadab/AndroidStudioProjects/digipune/app/src/main/AndroidManifest.xml:98:9-102:20
+	android:screenOrientation
+		ADDED from /home/shadab/AndroidStudioProjects/digipune/app/src/main/AndroidManifest.xml:101:13-49
+	android:label
+		ADDED from /home/shadab/AndroidStudioProjects/digipune/app/src/main/AndroidManifest.xml:100:13-59
+	android:name
+		ADDED from /home/shadab/AndroidStudioProjects/digipune/app/src/main/AndroidManifest.xml:99:13-68
+activity#in.skylinelabs.digiPune.activity.sos_map
+ADDED from /home/shadab/AndroidStudioProjects/digipune/app/src/main/AndroidManifest.xml:103:9-107:20
+	android:screenOrientation
+		ADDED from /home/shadab/AndroidStudioProjects/digipune/app/src/main/AndroidManifest.xml:106:13-49
+	android:label
+		ADDED from /home/shadab/AndroidStudioProjects/digipune/app/src/main/AndroidManifest.xml:105:13-59
+	android:name
+		ADDED from /home/shadab/AndroidStudioProjects/digipune/app/src/main/AndroidManifest.xml:104:13-68
+activity#in.skylinelabs.digiPune.activity.sos
+ADDED from /home/shadab/AndroidStudioProjects/digipune/app/src/main/AndroidManifest.xml:108:9-116:20
+	android:screenOrientation
+		ADDED from /home/shadab/AndroidStudioProjects/digipune/app/src/main/AndroidManifest.xml:112:13-49
+	android:label
+		ADDED from /home/shadab/AndroidStudioProjects/digipune/app/src/main/AndroidManifest.xml:111:13-45
+	android:icon
+		ADDED from /home/shadab/AndroidStudioProjects/digipune/app/src/main/AndroidManifest.xml:110:13-48
+	android:name
+		ADDED from /home/shadab/AndroidStudioProjects/digipune/app/src/main/AndroidManifest.xml:109:13-64
+intent-filter#android.appwidget.action.APPWIDGET_UPDATE
+ADDED from /home/shadab/AndroidStudioProjects/digipune/app/src/main/AndroidManifest.xml:113:13-115:29
+action#android.appwidget.action.APPWIDGET_UPDATE
+ADDED from /home/shadab/AndroidStudioProjects/digipune/app/src/main/AndroidManifest.xml:114:17-84
+	android:name
+		ADDED from /home/shadab/AndroidStudioProjects/digipune/app/src/main/AndroidManifest.xml:114:25-81
+receiver#in.skylinelabs.digiPune.activity.BootCompletedReceiver
+ADDED from /home/shadab/AndroidStudioProjects/digipune/app/src/main/AndroidManifest.xml:118:9-129:20
+	android:enabled
+		ADDED from /home/shadab/AndroidStudioProjects/digipune/app/src/main/AndroidManifest.xml:120:13-35
+	android:exported
+		ADDED from /home/shadab/AndroidStudioProjects/digipune/app/src/main/AndroidManifest.xml:121:13-37
+	android:name
+		ADDED from /home/shadab/AndroidStudioProjects/digipune/app/src/main/AndroidManifest.xml:119:13-82
+intent-filter#android.intent.action.BOOT_COMPLETED+android.intent.action.QUICKBOOT_POWERON+android.intent.category.HOME
+ADDED from /home/shadab/AndroidStudioProjects/digipune/app/src/main/AndroidManifest.xml:122:13-128:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from /home/shadab/AndroidStudioProjects/digipune/app/src/main/AndroidManifest.xml:123:17-79
+	android:name
+		ADDED from /home/shadab/AndroidStudioProjects/digipune/app/src/main/AndroidManifest.xml:123:25-76
+action#android.intent.action.QUICKBOOT_POWERON
+ADDED from /home/shadab/AndroidStudioProjects/digipune/app/src/main/AndroidManifest.xml:124:17-82
+	android:name
+		ADDED from /home/shadab/AndroidStudioProjects/digipune/app/src/main/AndroidManifest.xml:124:25-79
+category#android.intent.category.HOME
+ADDED from /home/shadab/AndroidStudioProjects/digipune/app/src/main/AndroidManifest.xml:126:17-127:28
+	android:name
+		ADDED from /home/shadab/AndroidStudioProjects/digipune/app/src/main/AndroidManifest.xml:126:27-70
+receiver#in.skylinelabs.digiPune.activity.GcmBroadcastReceiver
+ADDED from /home/shadab/AndroidStudioProjects/digipune/app/src/main/AndroidManifest.xml:131:9-143:20
+	android:permission
+		ADDED from /home/shadab/AndroidStudioProjects/digipune/app/src/main/AndroidManifest.xml:133:13-73
+	android:name
+		ADDED from /home/shadab/AndroidStudioProjects/digipune/app/src/main/AndroidManifest.xml:132:13-81
+intent-filter#com.google.android.c2dm.intent.RECEIVE+com.google.android.c2dm.intent.REGISTRATION+in.skylinelabs.digiPune
+ADDED from /home/shadab/AndroidStudioProjects/digipune/app/src/main/AndroidManifest.xml:134:13-142:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from /home/shadab/AndroidStudioProjects/digipune/app/src/main/AndroidManifest.xml:137:17-81
+	android:name
+		ADDED from /home/shadab/AndroidStudioProjects/digipune/app/src/main/AndroidManifest.xml:137:25-78
+action#com.google.android.c2dm.intent.REGISTRATION
+ADDED from /home/shadab/AndroidStudioProjects/digipune/app/src/main/AndroidManifest.xml:139:17-86
+	android:name
+		ADDED from /home/shadab/AndroidStudioProjects/digipune/app/src/main/AndroidManifest.xml:139:25-83
+category#in.skylinelabs.digiPune
+ADDED from /home/shadab/AndroidStudioProjects/digipune/app/src/main/AndroidManifest.xml:141:17-68
+	android:name
+		ADDED from /home/shadab/AndroidStudioProjects/digipune/app/src/main/AndroidManifest.xml:141:27-65
+service#in.skylinelabs.digiPune.activity.GcmMessageHandler
+ADDED from /home/shadab/AndroidStudioProjects/digipune/app/src/main/AndroidManifest.xml:145:9-86
+	android:name
+		ADDED from /home/shadab/AndroidStudioProjects/digipune/app/src/main/AndroidManifest.xml:145:18-83
+meta-data#com.google.android.gms.version
+ADDED from /home/shadab/AndroidStudioProjects/digipune/app/src/main/AndroidManifest.xml:147:9-149:69
+MERGED from [com.google.android.gms:play-services-base:7.5.0] /home/shadab/.android/build-cache/d25d19e4a6b530a0d6db921ad935c440fac742f8/output/AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from /home/shadab/AndroidStudioProjects/digipune/app/src/main/AndroidManifest.xml:149:13-66
+	android:name
+		ADDED from /home/shadab/AndroidStudioProjects/digipune/app/src/main/AndroidManifest.xml:148:13-58
+meta-data#com.google.android.backup.api_key
+ADDED from /home/shadab/AndroidStudioProjects/digipune/app/src/main/AndroidManifest.xml:150:9-152:82
+	android:value
+		ADDED from /home/shadab/AndroidStudioProjects/digipune/app/src/main/AndroidManifest.xml:152:13-79
+	android:name
+		ADDED from /home/shadab/AndroidStudioProjects/digipune/app/src/main/AndroidManifest.xml:151:13-61
+meta-data#com.google.android.maps.v2.API_KEY
+ADDED from /home/shadab/AndroidStudioProjects/digipune/app/src/main/AndroidManifest.xml:153:9-155:71
+	android:value
+		ADDED from /home/shadab/AndroidStudioProjects/digipune/app/src/main/AndroidManifest.xml:155:13-68
+	android:name
+		ADDED from /home/shadab/AndroidStudioProjects/digipune/app/src/main/AndroidManifest.xml:154:13-62
+activity#in.skylinelabs.digiPune.activity.App_intro
+ADDED from /home/shadab/AndroidStudioProjects/digipune/app/src/main/AndroidManifest.xml:158:9-162:20
+	android:screenOrientation
+		ADDED from /home/shadab/AndroidStudioProjects/digipune/app/src/main/AndroidManifest.xml:161:13-49
+	android:label
+		ADDED from /home/shadab/AndroidStudioProjects/digipune/app/src/main/AndroidManifest.xml:160:13-61
+	android:name
+		ADDED from /home/shadab/AndroidStudioProjects/digipune/app/src/main/AndroidManifest.xml:159:13-70
+activity#in.skylinelabs.digiPune.activity.Location_event
+ADDED from /home/shadab/AndroidStudioProjects/digipune/app/src/main/AndroidManifest.xml:163:9-167:20
+	android:screenOrientation
+		ADDED from /home/shadab/AndroidStudioProjects/digipune/app/src/main/AndroidManifest.xml:166:13-49
+	android:label
+		ADDED from /home/shadab/AndroidStudioProjects/digipune/app/src/main/AndroidManifest.xml:165:13-63
+	android:name
+		ADDED from /home/shadab/AndroidStudioProjects/digipune/app/src/main/AndroidManifest.xml:164:13-75
+receiver#in.skylinelabs.digiPune.activity.FinalWidget
+ADDED from /home/shadab/AndroidStudioProjects/digipune/app/src/main/AndroidManifest.xml:169:9-177:20
+	android:name
+		ADDED from /home/shadab/AndroidStudioProjects/digipune/app/src/main/AndroidManifest.xml:169:19-78
+meta-data#android.appwidget.provider
+ADDED from /home/shadab/AndroidStudioProjects/digipune/app/src/main/AndroidManifest.xml:174:13-176:61
+	android:resource
+		ADDED from /home/shadab/AndroidStudioProjects/digipune/app/src/main/AndroidManifest.xml:176:17-58
+	android:name
+		ADDED from /home/shadab/AndroidStudioProjects/digipune/app/src/main/AndroidManifest.xml:175:17-58
+activity#in.skylinelabs.digiPune.activity.Log_in
+ADDED from /home/shadab/AndroidStudioProjects/digipune/app/src/main/AndroidManifest.xml:179:9-184:20
+	android:screenOrientation
+		ADDED from /home/shadab/AndroidStudioProjects/digipune/app/src/main/AndroidManifest.xml:182:13-49
+	android:label
+		ADDED from /home/shadab/AndroidStudioProjects/digipune/app/src/main/AndroidManifest.xml:181:13-58
+	android:windowSoftInputMode
+		ADDED from /home/shadab/AndroidStudioProjects/digipune/app/src/main/AndroidManifest.xml:183:13-55
+	android:name
+		ADDED from /home/shadab/AndroidStudioProjects/digipune/app/src/main/AndroidManifest.xml:180:13-67
+activity#in.skylinelabs.digiPune.activity.Privacypolicy
+ADDED from /home/shadab/AndroidStudioProjects/digipune/app/src/main/AndroidManifest.xml:185:9-189:20
+	android:screenOrientation
+		ADDED from /home/shadab/AndroidStudioProjects/digipune/app/src/main/AndroidManifest.xml:188:13-49
+	android:label
+		ADDED from /home/shadab/AndroidStudioProjects/digipune/app/src/main/AndroidManifest.xml:187:13-65
+	android:name
+		ADDED from /home/shadab/AndroidStudioProjects/digipune/app/src/main/AndroidManifest.xml:186:13-74
+activity#in.skylinelabs.digiPune.activity.FindGov
+ADDED from /home/shadab/AndroidStudioProjects/digipune/app/src/main/AndroidManifest.xml:190:9-193:20
+	android:label
+		ADDED from /home/shadab/AndroidStudioProjects/digipune/app/src/main/AndroidManifest.xml:192:13-60
+	android:name
+		ADDED from /home/shadab/AndroidStudioProjects/digipune/app/src/main/AndroidManifest.xml:191:13-68
+activity#in.skylinelabs.digiPune.activity.FirstTime_Settings
+ADDED from /home/shadab/AndroidStudioProjects/digipune/app/src/main/AndroidManifest.xml:194:9-197:20
+	android:label
+		ADDED from /home/shadab/AndroidStudioProjects/digipune/app/src/main/AndroidManifest.xml:196:13-72
+	android:name
+		ADDED from /home/shadab/AndroidStudioProjects/digipune/app/src/main/AndroidManifest.xml:195:13-79
+activity#in.skylinelabs.digiPune.activity.Bus_Fetch
+ADDED from /home/shadab/AndroidStudioProjects/digipune/app/src/main/AndroidManifest.xml:198:9-201:20
+	android:label
+		ADDED from /home/shadab/AndroidStudioProjects/digipune/app/src/main/AndroidManifest.xml:200:13-62
+	android:name
+		ADDED from /home/shadab/AndroidStudioProjects/digipune/app/src/main/AndroidManifest.xml:199:13-70
+activity#in.skylinelabs.digiPune.activity.SelectHome
+ADDED from /home/shadab/AndroidStudioProjects/digipune/app/src/main/AndroidManifest.xml:202:9-205:20
+	android:label
+		ADDED from /home/shadab/AndroidStudioProjects/digipune/app/src/main/AndroidManifest.xml:204:13-63
+	android:name
+		ADDED from /home/shadab/AndroidStudioProjects/digipune/app/src/main/AndroidManifest.xml:203:13-71
+activity#in.skylinelabs.digiPune.activity.SelectWork
+ADDED from /home/shadab/AndroidStudioProjects/digipune/app/src/main/AndroidManifest.xml:206:9-209:20
+	android:label
+		ADDED from /home/shadab/AndroidStudioProjects/digipune/app/src/main/AndroidManifest.xml:208:13-63
+	android:name
+		ADDED from /home/shadab/AndroidStudioProjects/digipune/app/src/main/AndroidManifest.xml:207:13-71
+activity#in.skylinelabs.digiPune.activity.Alert_Send
+ADDED from /home/shadab/AndroidStudioProjects/digipune/app/src/main/AndroidManifest.xml:210:9-213:20
+	android:label
+		ADDED from /home/shadab/AndroidStudioProjects/digipune/app/src/main/AndroidManifest.xml:212:13-64
+	android:name
+		ADDED from /home/shadab/AndroidStudioProjects/digipune/app/src/main/AndroidManifest.xml:211:13-71
+activity#in.skylinelabs.digiPune.activity.No_SignUp
+ADDED from /home/shadab/AndroidStudioProjects/digipune/app/src/main/AndroidManifest.xml:214:9-215:20
+	android:name
+		ADDED from /home/shadab/AndroidStudioProjects/digipune/app/src/main/AndroidManifest.xml:214:19-76
+activity#in.skylinelabs.digiPune.activity.ShoeNotifications
+ADDED from /home/shadab/AndroidStudioProjects/digipune/app/src/main/AndroidManifest.xml:216:9-219:20
+	android:label
+		ADDED from /home/shadab/AndroidStudioProjects/digipune/app/src/main/AndroidManifest.xml:218:13-70
+	android:name
+		ADDED from /home/shadab/AndroidStudioProjects/digipune/app/src/main/AndroidManifest.xml:217:13-78
+activity#in.skylinelabs.digiPune.activity.Upload_Complaint
+ADDED from /home/shadab/AndroidStudioProjects/digipune/app/src/main/AndroidManifest.xml:220:9-223:20
+	android:label
+		ADDED from /home/shadab/AndroidStudioProjects/digipune/app/src/main/AndroidManifest.xml:222:13-62
+	android:name
+		ADDED from /home/shadab/AndroidStudioProjects/digipune/app/src/main/AndroidManifest.xml:221:13-77
+activity#in.skylinelabs.digiPune.activity.Conductor_Activity
+ADDED from /home/shadab/AndroidStudioProjects/digipune/app/src/main/AndroidManifest.xml:224:9-227:20
+	android:label
+		ADDED from /home/shadab/AndroidStudioProjects/digipune/app/src/main/AndroidManifest.xml:226:13-62
+	android:name
+		ADDED from /home/shadab/AndroidStudioProjects/digipune/app/src/main/AndroidManifest.xml:225:13-79
+activity#in.skylinelabs.digiPune.activity.SwachBharatActivity
+ADDED from /home/shadab/AndroidStudioProjects/digipune/app/src/main/AndroidManifest.xml:229:9-232:20
+	android:label
+		ADDED from /home/shadab/AndroidStudioProjects/digipune/app/src/main/AndroidManifest.xml:231:13-62
+	android:name
+		ADDED from /home/shadab/AndroidStudioProjects/digipune/app/src/main/AndroidManifest.xml:230:13-80
+activity#in.skylinelabs.digiPune.activity.ComplaintPortal
+ADDED from /home/shadab/AndroidStudioProjects/digipune/app/src/main/AndroidManifest.xml:234:9-237:20
+	android:label
+		ADDED from /home/shadab/AndroidStudioProjects/digipune/app/src/main/AndroidManifest.xml:236:13-62
+	android:name
+		ADDED from /home/shadab/AndroidStudioProjects/digipune/app/src/main/AndroidManifest.xml:235:13-76
+uses-sdk
+INJECTED from /home/shadab/AndroidStudioProjects/digipune/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:recyclerview-v7:21.0.3] /home/shadab/.android/build-cache/ce107c503e3257c81a867840deb0442737f32aa7/output/AndroidManifest.xml:15:5-42
+MERGED from [com.google.android.gms:play-services:7.5.0] /home/shadab/.android/build-cache/4e051818bc6bccf4930c016ac75920af8319ec2a/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-ads:7.5.0] /home/shadab/.android/build-cache/688ee0146c6c31a89d9560a5b917c81458d68e23/output/AndroidManifest.xml:23:5-42
+MERGED from [com.google.android.gms:play-services-analytics:7.5.0] /home/shadab/.android/build-cache/4c269d0f5ed342ff5d807abc2751a61d74fe1e92/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-appindexing:7.5.0] /home/shadab/.android/build-cache/0182dd0b95bc8cc5d5573c58d9f3d507362041d4/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-appinvite:7.5.0] /home/shadab/.android/build-cache/983e64622e67d9cd93eb87200e726a1743bbc1d8/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-appstate:7.5.0] /home/shadab/.android/build-cache/efd0f952c9a4f917eec70439122013767de5f525/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-cast:7.5.0] /home/shadab/.android/build-cache/394c2a5771df18cb32da0358b0bfc817360a5b13/output/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:mediarouter-v7:22.0.0] /home/shadab/.android/build-cache/f9c5a0f34b7c49af8203bab5f54eab8b712fe111/output/AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-fitness:7.5.0] /home/shadab/.android/build-cache/9cda51b1ac9bb17c20f7a74204201989c36ac941/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-games:7.5.0] /home/shadab/.android/build-cache/53fb87c5b2e8a979d9a6433f33e6329212fffa27/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-drive:7.5.0] /home/shadab/.android/build-cache/3610d165c664ff32e1612c613148293a03dfb23f/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-gcm:7.5.0] /home/shadab/.android/build-cache/5ab1751481e1fb0d2043071b8251f82bc641bf56/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-location:7.5.0] /home/shadab/.android/build-cache/877a7871d77d47c9b031173e11d5fafc88094c94/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-nearby:7.5.0] /home/shadab/.android/build-cache/d30154768c5a1772d2c63beb4efc5e95b84fb518/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-panorama:7.5.0] /home/shadab/.android/build-cache/f708a19a0a7098fd96cb4073e38860569fa638f2/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-plus:7.5.0] /home/shadab/.android/build-cache/687155360b3d211563a6ab408e218dfa646ba940/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-safetynet:7.5.0] /home/shadab/.android/build-cache/5ab2b2089f5694bcfc54f962490a36abd76017bf/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-wallet:7.5.0] /home/shadab/.android/build-cache/e3fd3dd06b1d2a5a0b7115f559a961f2f4aba5dc/output/AndroidManifest.xml:19:5-42
+MERGED from [com.google.android.gms:play-services-identity:7.5.0] /home/shadab/.android/build-cache/2316e0321b8d986f26405cb01e8c69893b72fa37/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-maps:7.5.0] /home/shadab/.android/build-cache/9de23655ea0755b28b949e6c0ca06c03c8691a3d/output/AndroidManifest.xml:28:5-42
+MERGED from [com.google.android.gms:play-services-wearable:7.5.0] /home/shadab/.android/build-cache/c1faf11bed5dd60f5c2afad8b0c7dcc6ae53755b/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:7.5.0] /home/shadab/.android/build-cache/d25d19e4a6b530a0d6db921ad935c440fac742f8/output/AndroidManifest.xml:18:5-42
+MERGED from [com.github.clans:fab:1.5.4] /home/shadab/.android/build-cache/f9f8e64b2c9d6b4f12be86ac6d457332ff820f32/output/AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:cardview-v7:21.0.3] /home/shadab/.android/build-cache/958adb6023b32a088da364c4f7a7450853f3ca1f/output/AndroidManifest.xml:15:5-42
+MERGED from [de.hdodenhof:circleimageview:1.3.0] /home/shadab/.android/build-cache/dbefd19e35d55cef97bbf906079f9b32fd8655fa/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:design:22.2.0] /home/shadab/.android/build-cache/af8951e29ec79742082ab08123017c0b350be730/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:22.2.0] /home/shadab/.android/build-cache/9bcae28e96197ad94cce6ab181545ef1f9676476/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:22.2.0] /home/shadab/.android/build-cache/558ca9a9dfdde3c68247e191179c6038304f5716/output/AndroidManifest.xml:20:5-43
+MERGED from [com.skyfishjy.ripplebackground:library:1.0.1] /home/shadab/.android/build-cache/021ab68d12b359bd8833ceba2557eb8351497981/output/AndroidManifest.xml:7:5-9:41
+MERGED from [com.gordonwong:material-sheet-fab:1.0.4] /home/shadab/.android/build-cache/40d362a4ab5ec3cda052bff4eecde390acec6fd6/output/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.asyl.animation:arcanimator:1.0.0] /home/shadab/.android/build-cache/e94dac4e031484712b62932ae2528e625f52bf63/output/AndroidManifest.xml:7:5-9:41
+	android:targetSdkVersion
+		INJECTED from /home/shadab/AndroidStudioProjects/digipune/app/src/main/AndroidManifest.xml
+		INJECTED from /home/shadab/AndroidStudioProjects/digipune/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/shadab/AndroidStudioProjects/digipune/app/src/main/AndroidManifest.xml
+		INJECTED from /home/shadab/AndroidStudioProjects/digipune/app/src/main/AndroidManifest.xml
+activity#android.support.v7.widget.TestActivity
+ADDED from [com.android.support:recyclerview-v7:21.0.3] /home/shadab/.android/build-cache/ce107c503e3257c81a867840deb0442737f32aa7/output/AndroidManifest.xml:18:9-115
+	android:label
+		ADDED from [com.android.support:recyclerview-v7:21.0.3] /home/shadab/.android/build-cache/ce107c503e3257c81a867840deb0442737f32aa7/output/AndroidManifest.xml:18:19-59
+	android:name
+		ADDED from [com.android.support:recyclerview-v7:21.0.3] /home/shadab/.android/build-cache/ce107c503e3257c81a867840deb0442737f32aa7/output/AndroidManifest.xml:18:60-113
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads:7.5.0] /home/shadab/.android/build-cache/688ee0146c6c31a89d9560a5b917c81458d68e23/output/AndroidManifest.xml:26:9-29:64
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads:7.5.0] /home/shadab/.android/build-cache/688ee0146c6c31a89d9560a5b917c81458d68e23/output/AndroidManifest.xml:28:13-122
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads:7.5.0] /home/shadab/.android/build-cache/688ee0146c6c31a89d9560a5b917c81458d68e23/output/AndroidManifest.xml:29:13-61
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads:7.5.0] /home/shadab/.android/build-cache/688ee0146c6c31a89d9560a5b917c81458d68e23/output/AndroidManifest.xml:27:13-65
+activity#com.google.android.gms.ads.purchase.InAppPurchaseActivity
+ADDED from [com.google.android.gms:play-services-ads:7.5.0] /home/shadab/.android/build-cache/688ee0146c6c31a89d9560a5b917c81458d68e23/output/AndroidManifest.xml:30:9-31:52
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads:7.5.0] /home/shadab/.android/build-cache/688ee0146c6c31a89d9560a5b917c81458d68e23/output/AndroidManifest.xml:31:13-50
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads:7.5.0] /home/shadab/.android/build-cache/688ee0146c6c31a89d9560a5b917c81458d68e23/output/AndroidManifest.xml:30:19-91
+uses-permission#android.permission.USE_CREDENTIALS
+ADDED from [com.google.android.gms:play-services-wallet:7.5.0] /home/shadab/.android/build-cache/e3fd3dd06b1d2a5a0b7115f559a961f2f4aba5dc/output/AndroidManifest.xml:22:5-73
+	android:name
+		ADDED from [com.google.android.gms:play-services-wallet:7.5.0] /home/shadab/.android/build-cache/e3fd3dd06b1d2a5a0b7115f559a961f2f4aba5dc/output/AndroidManifest.xml:22:22-71
+meta-data#com.google.android.gms.wallet.api.enabled
+ADDED from [com.google.android.gms:play-services-wallet:7.5.0] /home/shadab/.android/build-cache/e3fd3dd06b1d2a5a0b7115f559a961f2f4aba5dc/output/AndroidManifest.xml:25:9-27:36
+	android:value
+		ADDED from [com.google.android.gms:play-services-wallet:7.5.0] /home/shadab/.android/build-cache/e3fd3dd06b1d2a5a0b7115f559a961f2f4aba5dc/output/AndroidManifest.xml:27:13-33
+	android:name
+		ADDED from [com.google.android.gms:play-services-wallet:7.5.0] /home/shadab/.android/build-cache/e3fd3dd06b1d2a5a0b7115f559a961f2f4aba5dc/output/AndroidManifest.xml:26:13-69
+receiver#com.google.android.gms.wallet.EnableWalletOptimizationReceiver
+ADDED from [com.google.android.gms:play-services-wallet:7.5.0] /home/shadab/.android/build-cache/e3fd3dd06b1d2a5a0b7115f559a961f2f4aba5dc/output/AndroidManifest.xml:28:9-34:20
+	android:exported
+		ADDED from [com.google.android.gms:play-services-wallet:7.5.0] /home/shadab/.android/build-cache/e3fd3dd06b1d2a5a0b7115f559a961f2f4aba5dc/output/AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-wallet:7.5.0] /home/shadab/.android/build-cache/e3fd3dd06b1d2a5a0b7115f559a961f2f4aba5dc/output/AndroidManifest.xml:29:13-90
+intent-filter#com.google.android.gms.wallet.ENABLE_WALLET_OPTIMIZATION
+ADDED from [com.google.android.gms:play-services-wallet:7.5.0] /home/shadab/.android/build-cache/e3fd3dd06b1d2a5a0b7115f559a961f2f4aba5dc/output/AndroidManifest.xml:31:13-33:29
+action#com.google.android.gms.wallet.ENABLE_WALLET_OPTIMIZATION
+ADDED from [com.google.android.gms:play-services-wallet:7.5.0] /home/shadab/.android/build-cache/e3fd3dd06b1d2a5a0b7115f559a961f2f4aba5dc/output/AndroidManifest.xml:32:17-99
+	android:name
+		ADDED from [com.google.android.gms:play-services-wallet:7.5.0] /home/shadab/.android/build-cache/e3fd3dd06b1d2a5a0b7115f559a961f2f4aba5dc/output/AndroidManifest.xml:32:25-96
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:7.5.0] /home/shadab/.android/build-cache/9de23655ea0755b28b949e6c0ca06c03c8691a3d/output/AndroidManifest.xml:24:5-26:33
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:7.5.0] /home/shadab/.android/build-cache/9de23655ea0755b28b949e6c0ca06c03c8691a3d/output/AndroidManifest.xml:25:8-40
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:7.5.0] /home/shadab/.android/build-cache/9de23655ea0755b28b949e6c0ca06c03c8691a3d/output/AndroidManifest.xml:26:8-31
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from /home/shadab/AndroidStudioProjects/digipune/app/src/main/AndroidManifest.xml:2:1-241:12 reason: com.google.android.gms.maps requested WRITE_EXTERNAL_STORAGE

@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/home/shadab/AndroidStudioProjects/digipune/app/build/intermediates/res/merged/debug/drawable-tvdpi/ic_plusone_tall_off_client.png",
+        "source": "/home/shadab/.android/build-cache/d25d19e4a6b530a0d6db921ad935c440fac742f8/output/res/drawable-tvdpi/ic_plusone_tall_off_client.png"
+    },
+    {
+        "merged": "/home/shadab/AndroidStudioProjects/digipune/app/build/intermediates/res/merged/debug/drawable-tvdpi/ic_plusone_small_off_client.png",
+        "source": "/home/shadab/.android/build-cache/d25d19e4a6b530a0d6db921ad935c440fac742f8/output/res/drawable-tvdpi/ic_plusone_small_off_client.png"
+    },
+    {
+        "merged": "/home/shadab/AndroidStudioProjects/digipune/app/build/intermediates/res/merged/debug/drawable-tvdpi/common_full_open_on_phone.png",
+        "source": "/home/shadab/.android/build-cache/d25d19e4a6b530a0d6db921ad935c440fac742f8/output/res/drawable-tvdpi/common_full_open_on_phone.png"
+    },
+    {
+        "merged": "/home/shadab/AndroidStudioProjects/digipune/app/build/intermediates/res/merged/debug/drawable-tvdpi/ic_plusone_standard_off_client.png",
+        "source": "/home/shadab/.android/build-cache/d25d19e4a6b530a0d6db921ad935c440fac742f8/output/res/drawable-tvdpi/ic_plusone_standard_off_client.png"
+    },
+    {
+        "merged": "/home/shadab/AndroidStudioProjects/digipune/app/build/intermediates/res/merged/debug/drawable-tvdpi/ic_plusone_medium_off_client.png",
+        "source": "/home/shadab/.android/build-cache/d25d19e4a6b530a0d6db921ad935c440fac742f8/output/res/drawable-tvdpi/ic_plusone_medium_off_client.png"
+    }
+]

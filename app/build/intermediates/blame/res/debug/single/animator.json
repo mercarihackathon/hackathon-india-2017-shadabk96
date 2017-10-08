@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/shadab/AndroidStudioProjects/digipune/app/build/intermediates/res/merged/debug/animator/indicator_animator.xml",
+        "source": "/home/shadab/AndroidStudioProjects/digipune/app/src/main/res/animator/indicator_animator.xml"
+    },
+    {
+        "merged": "/home/shadab/AndroidStudioProjects/digipune/app/build/intermediates/res/merged/debug/animator/indicator_animator_reverse.xml",
+        "source": "/home/shadab/AndroidStudioProjects/digipune/app/src/main/res/animator/indicator_animator_reverse.xml"
+    },
+    {
+        "merged": "/home/shadab/AndroidStudioProjects/digipune/app/build/intermediates/res/merged/debug/animator/scale_with_alpha.xml",
+        "source": "/home/shadab/AndroidStudioProjects/digipune/app/src/main/res/animator/scale_with_alpha.xml"
+    },
+    {
+        "merged": "/home/shadab/AndroidStudioProjects/digipune/app/build/intermediates/res/merged/debug/animator/indicator_no_animator.xml",
+        "source": "/home/shadab/AndroidStudioProjects/digipune/app/src/main/res/animator/indicator_no_animator.xml"
+    }
+]

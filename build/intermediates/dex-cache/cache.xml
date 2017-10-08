@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/shadab/.android/build-cache/9bcae28e96197ad94cce6ab181545ef1f9676476/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="/home/shadab/AndroidStudioProjects/FindX/app/build/intermediates/pre-dexed/debug/classes_209e2d05db29c9a8ff877d954f0cb21769496490.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shadab/.android/build-cache/9cda51b1ac9bb17c20f7a74204201989c36ac941/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a172852a35ff919e85b9b7f14bbc15c5bee25520">
+        <dex dex="/home/shadab/AndroidStudioProjects/FindX/app/build/intermediates/pre-dexed/debug/classes_468296616513a3e5961b04377bef5f96939b8921.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shadab/.android/build-cache/983e64622e67d9cd93eb87200e726a1743bbc1d8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="63ec6e9f4fe5482a7447d0f3091b8e543a02554c">
+        <dex dex="/home/shadab/AndroidStudioProjects/FindX/app/build/intermediates/pre-dexed/debug/classes_15fa5aee7543b1e7fa29901b1d4f64c63f755a94.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shadab/.android/build-cache/558ca9a9dfdde3c68247e191179c6038304f5716/output/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="/home/shadab/AndroidStudioProjects/FindX/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0_67af0a9326eb3d9411012a34ddbe86f7e8a42dfc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shadab/.android/build-cache/5ab1751481e1fb0d2043071b8251f82bc641bf56/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8d736fefa22d896e84a268354b3ed48a42663150">
+        <dex dex="/home/shadab/AndroidStudioProjects/FindX/app/build/intermediates/pre-dexed/debug/classes_0dc6a76f77ca5872279d75851fbe61ea8dedc209.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shadab/.android/build-cache/af8951e29ec79742082ab08123017c0b350be730/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fc63b820d54c8a27a3a614bdd93920e0076581c2">
+        <dex dex="/home/shadab/AndroidStudioProjects/FindX/app/build/intermediates/pre-dexed/debug/classes_6beb42840c726eeb44978902b85cd789c953c9bf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shadab/.android/build-cache/4c269d0f5ed342ff5d807abc2751a61d74fe1e92/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e7b35244f50663b3f8d150714bca9ecd7a290da1">
+        <dex dex="/home/shadab/AndroidStudioProjects/FindX/app/build/intermediates/pre-dexed/debug/classes_8cbfd302c066a353573370fd330f401398597b6c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shadab/.gradle/caches/modules-2/files-2.1/com.loopj.android/android-async-http/1.4.9/386a4339ffe52d5d63e80f9bed8d2b1d1a418249/android-async-http-1.4.9.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="386a4339ffe52d5d63e80f9bed8d2b1d1a418249">
+        <dex dex="/home/shadab/AndroidStudioProjects/FindX/app/build/intermediates/pre-dexed/debug/android-async-http-1.4.9_9034518c87895f9b69da23ffb8202f21234e1f8b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shadab/.android/build-cache/c1faf11bed5dd60f5c2afad8b0c7dcc6ae53755b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="69dd177337ead693c408c8dddc9546bb6f1244fa">
+        <dex dex="/home/shadab/AndroidStudioProjects/FindX/app/build/intermediates/pre-dexed/debug/classes_1cbcd166d38b6e8893622343a4d1384f6cca0be2.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shadab/AndroidStudioProjects/FindX/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/shadab/AndroidStudioProjects/FindX/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_f07fb4bb4554e43f6178afcaccc6cce5f3b33d0e/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shadab/.android/build-cache/e94dac4e031484712b62932ae2528e625f52bf63/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="31dbe885ef6a9d6a88412750e85784f60b95cb90">
+        <dex dex="/home/shadab/AndroidStudioProjects/FindX/app/build/intermediates/pre-dexed/debug/classes_cfb74f101187d6ea4e96fc08111065738a407859.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shadab/.gradle/caches/modules-2/files-2.1/cz.msebera.android/httpclient/4.3.6/526a9f794eab830eae4f23a62c572878b3f491ab/httpclient-4.3.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="526a9f794eab830eae4f23a62c572878b3f491ab">
+        <dex dex="/home/shadab/AndroidStudioProjects/FindX/app/build/intermediates/pre-dexed/debug/httpclient-4.3.6_b8d09ff4b14847c2d701ab50075623bece8519b6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shadab/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/home/shadab/AndroidStudioProjects/FindX/app/build/intermediates/pre-dexed/debug/library-2.4.0_6bff2a2fd911c3aaa6c8e2e397de3d2487be6c0a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shadab/.android/build-cache/688ee0146c6c31a89d9560a5b917c81458d68e23/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="29ebc7e04d877062317c8cc0e68b20f0c1fcda66">
+        <dex dex="/home/shadab/AndroidStudioProjects/FindX/app/build/intermediates/pre-dexed/debug/classes_684b567b0f76e49373b81405f66142ee9cfe8d5c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shadab/.android/build-cache/3610d165c664ff32e1612c613148293a03dfb23f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f44d03c138cb6488fdbaa65e3a7e5878861a56d8">
+        <dex dex="/home/shadab/AndroidStudioProjects/FindX/app/build/intermediates/pre-dexed/debug/classes_ef0696d64dec9c8f06779a079afbed3461bf2333.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shadab/.android/build-cache/5ab2b2089f5694bcfc54f962490a36abd76017bf/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1a6411087ab88ce5542f593e63a2752b6b0d6f1a">
+        <dex dex="/home/shadab/AndroidStudioProjects/FindX/app/build/intermediates/pre-dexed/debug/classes_8c6aecdd74086ab6318348d31657773c959aca5f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shadab/.android/build-cache/394c2a5771df18cb32da0358b0bfc817360a5b13/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8e3a972f28b8bae817e382257ba177a31bcadbbc">
+        <dex dex="/home/shadab/AndroidStudioProjects/FindX/app/build/intermediates/pre-dexed/debug/classes_0f360b639e73d6d33f334913c71c1e321942cba8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/media/shadab/Sdrive/apk/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="/home/shadab/AndroidStudioProjects/FindX/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.0_3254a5d215ffc2f58d296e0f5bb0c08ecd6497ee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shadab/.android/build-cache/9de23655ea0755b28b949e6c0ca06c03c8691a3d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="06a42becc33232ec0ee125161da68c1829c9f8fd">
+        <dex dex="/home/shadab/AndroidStudioProjects/FindX/app/build/intermediates/pre-dexed/debug/classes_6afb01912a780ac58918314c146c9ba3645d984e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shadab/.android/build-cache/021ab68d12b359bd8833ceba2557eb8351497981/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5a7cf2a41aedccc427107ebb37762a5e2f5be590">
+        <dex dex="/home/shadab/AndroidStudioProjects/FindX/app/build/intermediates/pre-dexed/debug/classes_378c47222b415b9cd2c4b78d1e9409b3f50ebda7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shadab/.android/build-cache/d25d19e4a6b530a0d6db921ad935c440fac742f8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a78183f30e769a98ab4820794f597763088d3065">
+        <dex dex="/home/shadab/AndroidStudioProjects/FindX/app/build/intermediates/pre-dexed/debug/classes_0ab8938b27a1f6152d0a288ee64f735405899dd5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shadab/.android/build-cache/f708a19a0a7098fd96cb4073e38860569fa638f2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ba207be21987c11b37d9f8faa08ed6e722569f30">
+        <dex dex="/home/shadab/AndroidStudioProjects/FindX/app/build/intermediates/pre-dexed/debug/classes_f9b594dab16980d2a6cce80837bda70552682814.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shadab/.android/build-cache/40d362a4ab5ec3cda052bff4eecde390acec6fd6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6d241e5c81afb325b19987825668ff3e86b81ff5">
+        <dex dex="/home/shadab/AndroidStudioProjects/FindX/app/build/intermediates/pre-dexed/debug/classes_6afa788d944372c77f29400b336525e730af6e62.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shadab/AndroidStudioProjects/FindX/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9aeb905dd796344d9eb5b5e476088026e767f031">
+        <dex dex="/home/shadab/AndroidStudioProjects/FindX/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_21f736b3101aef818d98333a4a481c0834fa71b8/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shadab/.android/build-cache/877a7871d77d47c9b031173e11d5fafc88094c94/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1e98ef3f124bb7a11f8575f9ff5dfea330b61b6f">
+        <dex dex="/home/shadab/AndroidStudioProjects/FindX/app/build/intermediates/pre-dexed/debug/classes_3d375ed52687dab7433b5c4bee84bfd9f824ceac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shadab/.android/build-cache/0182dd0b95bc8cc5d5573c58d9f3d507362041d4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f02127a85abd52a2cd526d4c2409f21969f80ee8">
+        <dex dex="/home/shadab/AndroidStudioProjects/FindX/app/build/intermediates/pre-dexed/debug/classes_233d1111e14622fe4306b989cc95a639d58be57b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shadab/.android/build-cache/d30154768c5a1772d2c63beb4efc5e95b84fb518/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6440e5e5cfe368f9bff3c537fb8988048069cb33">
+        <dex dex="/home/shadab/AndroidStudioProjects/FindX/app/build/intermediates/pre-dexed/debug/classes_2e12abae95083152d583d6e898a8297e987c5f04.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shadab/.android/build-cache/f9f8e64b2c9d6b4f12be86ac6d457332ff820f32/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4f36ca85c9191834ee763ff73dfca1e8b1eb85ee">
+        <dex dex="/home/shadab/AndroidStudioProjects/FindX/app/build/intermediates/pre-dexed/debug/classes_e238ca0edf507a762199257b683c867fcfcba69f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shadab/.android/build-cache/687155360b3d211563a6ab408e218dfa646ba940/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="272bc5d7063f24bc3a33ea1d318cde8f31f5ec4c">
+        <dex dex="/home/shadab/AndroidStudioProjects/FindX/app/build/intermediates/pre-dexed/debug/classes_c61193557d73425c3a62bffad6fc53ea53b97af5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shadab/.android/build-cache/958adb6023b32a088da364c4f7a7450853f3ca1f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="00b0b7233e1ec64acebfac40d4983d32d4712426">
+        <dex dex="/home/shadab/AndroidStudioProjects/FindX/app/build/intermediates/pre-dexed/debug/classes_1d235a262d432d1a6a44cb7ae4e59da9dc73f48d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shadab/.android/build-cache/558ca9a9dfdde3c68247e191179c6038304f5716/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="/home/shadab/AndroidStudioProjects/FindX/app/build/intermediates/pre-dexed/debug/classes_3a6f4f6aad00daaa0d3637c7d6908f9c70ebca07.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shadab/.android/build-cache/dbefd19e35d55cef97bbf906079f9b32fd8655fa/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ac6948cce36f694f3eb3d73a135e298dc4b3527a">
+        <dex dex="/home/shadab/AndroidStudioProjects/FindX/app/build/intermediates/pre-dexed/debug/classes_ab22358f4db45a4c7dd2865b35c4f4f5a5c44942.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shadab/.android/build-cache/2316e0321b8d986f26405cb01e8c69893b72fa37/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d405025c600055237c171a0bbabaa49d69696573">
+        <dex dex="/home/shadab/AndroidStudioProjects/FindX/app/build/intermediates/pre-dexed/debug/classes_bf657cc56d7ea1d5d84867836c374ee3ec7565c6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shadab/.android/build-cache/f9c5a0f34b7c49af8203bab5f54eab8b712fe111/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a1372c17fccacca753d3951d3ad820571cbce075">
+        <dex dex="/home/shadab/AndroidStudioProjects/FindX/app/build/intermediates/pre-dexed/debug/classes_b4856be6dee8eb52da34dd2e77e8a58da7604a80.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shadab/.android/build-cache/e3fd3dd06b1d2a5a0b7115f559a961f2f4aba5dc/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6836d188602ec5382d1967c58b00960eb8ff8773">
+        <dex dex="/home/shadab/AndroidStudioProjects/FindX/app/build/intermediates/pre-dexed/debug/classes_0acf3b77fee631ace174cc8db910cf17c53d2644.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shadab/.android/build-cache/f9c5a0f34b7c49af8203bab5f54eab8b712fe111/output/jars/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ba3df4eb0a630d7de294f0e48d3f9267d279b784">
+        <dex dex="/home/shadab/AndroidStudioProjects/FindX/app/build/intermediates/pre-dexed/debug/internal_impl-22.0.0_a0b87d01eb9a9529c81764ad141c10485ca91d4c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shadab/.android/build-cache/efd0f952c9a4f917eec70439122013767de5f525/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="68c140702c7242d914655bcb3164d9e8c45b84cb">
+        <dex dex="/home/shadab/AndroidStudioProjects/FindX/app/build/intermediates/pre-dexed/debug/classes_171bbfa0863d378a85c1e6b32eded0c1c89fc352.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shadab/.android/build-cache/53fb87c5b2e8a979d9a6433f33e6329212fffa27/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="02bac2dc792d78241077861566f2c82da955e7fa">
+        <dex dex="/home/shadab/AndroidStudioProjects/FindX/app/build/intermediates/pre-dexed/debug/classes_90d9f1017654f301bfd1ce717d642fb4ace9040a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shadab/.android/build-cache/ce107c503e3257c81a867840deb0442737f32aa7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4b8945fc23a7461c6fdde15753456d64b0a9358b">
+        <dex dex="/home/shadab/AndroidStudioProjects/FindX/app/build/intermediates/pre-dexed/debug/classes_26f16581e3f9728abb7dd93150c5141250128c22.jar" />
+    </item>
+
+</items>

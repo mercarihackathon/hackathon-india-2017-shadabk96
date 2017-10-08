@@ -1,0 +1,94 @@
+[
+    {
+        "merged": "/home/shadab/AndroidStudioProjects/digipune/app/build/intermediates/res/merged/debug/menu/menu_sign_up_done.xml",
+        "source": "/home/shadab/AndroidStudioProjects/digipune/app/src/main/res/menu/menu_sign_up_done.xml"
+    },
+    {
+        "merged": "/home/shadab/AndroidStudioProjects/digipune/app/build/intermediates/res/merged/debug/menu/menu_log_in.xml",
+        "source": "/home/shadab/AndroidStudioProjects/digipune/app/src/main/res/menu/menu_log_in.xml"
+    },
+    {
+        "merged": "/home/shadab/AndroidStudioProjects/digipune/app/build/intermediates/res/merged/debug/menu/menu_personal__details.xml",
+        "source": "/home/shadab/AndroidStudioProjects/digipune/app/src/main/res/menu/menu_personal__details.xml"
+    },
+    {
+        "merged": "/home/shadab/AndroidStudioProjects/digipune/app/build/intermediates/res/merged/debug/menu/menu_main.xml",
+        "source": "/home/shadab/AndroidStudioProjects/digipune/app/src/main/res/menu/menu_main.xml"
+    },
+    {
+        "merged": "/home/shadab/AndroidStudioProjects/digipune/app/build/intermediates/res/merged/debug/menu/friendlocation_menu.xml",
+        "source": "/home/shadab/AndroidStudioProjects/digipune/app/src/main/res/menu/friendlocation_menu.xml"
+    },
+    {
+        "merged": "/home/shadab/AndroidStudioProjects/digipune/app/build/intermediates/res/merged/debug/menu/menu_try1.xml",
+        "source": "/home/shadab/AndroidStudioProjects/digipune/app/src/main/res/menu/menu_try1.xml"
+    },
+    {
+        "merged": "/home/shadab/AndroidStudioProjects/digipune/app/build/intermediates/res/merged/debug/menu/menu_app_intro.xml",
+        "source": "/home/shadab/AndroidStudioProjects/digipune/app/src/main/res/menu/menu_app_intro.xml"
+    },
+    {
+        "merged": "/home/shadab/AndroidStudioProjects/digipune/app/build/intermediates/res/merged/debug/menu/menu_alert__ssend.xml",
+        "source": "/home/shadab/AndroidStudioProjects/digipune/app/src/main/res/menu/menu_alert__ssend.xml"
+    },
+    {
+        "merged": "/home/shadab/AndroidStudioProjects/digipune/app/build/intermediates/res/merged/debug/menu/menu_no__sign_up.xml",
+        "source": "/home/shadab/AndroidStudioProjects/digipune/app/src/main/res/menu/menu_no__sign_up.xml"
+    },
+    {
+        "merged": "/home/shadab/AndroidStudioProjects/digipune/app/build/intermediates/res/merged/debug/menu/menu_shoe_notifications.xml",
+        "source": "/home/shadab/AndroidStudioProjects/digipune/app/src/main/res/menu/menu_shoe_notifications.xml"
+    },
+    {
+        "merged": "/home/shadab/AndroidStudioProjects/digipune/app/build/intermediates/res/merged/debug/menu/menu_conductor_.xml",
+        "source": "/home/shadab/AndroidStudioProjects/digipune/app/src/main/res/menu/menu_conductor_.xml"
+    },
+    {
+        "merged": "/home/shadab/AndroidStudioProjects/digipune/app/build/intermediates/res/merged/debug/menu/mylocation_menu.xml",
+        "source": "/home/shadab/AndroidStudioProjects/digipune/app/src/main/res/menu/mylocation_menu.xml"
+    },
+    {
+        "merged": "/home/shadab/AndroidStudioProjects/digipune/app/build/intermediates/res/merged/debug/menu/menu_bus__fetch.xml",
+        "source": "/home/shadab/AndroidStudioProjects/digipune/app/src/main/res/menu/menu_bus__fetch.xml"
+    },
+    {
+        "merged": "/home/shadab/AndroidStudioProjects/digipune/app/build/intermediates/res/merged/debug/menu/menu_sign__up_completed.xml",
+        "source": "/home/shadab/AndroidStudioProjects/digipune/app/src/main/res/menu/menu_sign__up_completed.xml"
+    },
+    {
+        "merged": "/home/shadab/AndroidStudioProjects/digipune/app/build/intermediates/res/merged/debug/menu/menu_select_home.xml",
+        "source": "/home/shadab/AndroidStudioProjects/digipune/app/src/main/res/menu/menu_select_home.xml"
+    },
+    {
+        "merged": "/home/shadab/AndroidStudioProjects/digipune/app/build/intermediates/res/merged/debug/menu/menu_complaint_portal.xml",
+        "source": "/home/shadab/AndroidStudioProjects/digipune/app/src/main/res/menu/menu_complaint_portal.xml"
+    },
+    {
+        "merged": "/home/shadab/AndroidStudioProjects/digipune/app/build/intermediates/res/merged/debug/menu/menu_find_gov.xml",
+        "source": "/home/shadab/AndroidStudioProjects/digipune/app/src/main/res/menu/menu_find_gov.xml"
+    },
+    {
+        "merged": "/home/shadab/AndroidStudioProjects/digipune/app/build/intermediates/res/merged/debug/menu/menu_add__complaint.xml",
+        "source": "/home/shadab/AndroidStudioProjects/digipune/app/src/main/res/menu/menu_add__complaint.xml"
+    },
+    {
+        "merged": "/home/shadab/AndroidStudioProjects/digipune/app/build/intermediates/res/merged/debug/menu/menu_setting.xml",
+        "source": "/home/shadab/AndroidStudioProjects/digipune/app/src/main/res/menu/menu_setting.xml"
+    },
+    {
+        "merged": "/home/shadab/AndroidStudioProjects/digipune/app/build/intermediates/res/merged/debug/menu/menu_history.xml",
+        "source": "/home/shadab/AndroidStudioProjects/digipune/app/src/main/res/menu/menu_history.xml"
+    },
+    {
+        "merged": "/home/shadab/AndroidStudioProjects/digipune/app/build/intermediates/res/merged/debug/menu/menu_location_event.xml",
+        "source": "/home/shadab/AndroidStudioProjects/digipune/app/src/main/res/menu/menu_location_event.xml"
+    },
+    {
+        "merged": "/home/shadab/AndroidStudioProjects/digipune/app/build/intermediates/res/merged/debug/menu/menu_upload_try.xml",
+        "source": "/home/shadab/AndroidStudioProjects/digipune/app/src/main/res/menu/menu_upload_try.xml"
+    },
+    {
+        "merged": "/home/shadab/AndroidStudioProjects/digipune/app/build/intermediates/res/merged/debug/menu/menu_first_time__settings.xml",
+        "source": "/home/shadab/AndroidStudioProjects/digipune/app/src/main/res/menu/menu_first_time__settings.xml"
+    }
+]
